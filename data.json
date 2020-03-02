@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"Amulya",
+        "role":"student",
+        "email":"thotaamulya2000@gmail.com",
+        "mobile":"+91 7093539998",
+        "education":[
+            {
+                "degree":"SSC",
+                "GPA":9.8
+            },
+            {
+                "degree":"INTER",
+                "GPA":97.7
+            },
+            {
+                "degree":"B.TECh",
+                "GPA":9.4
+            }
+        ]
+    }
+}
